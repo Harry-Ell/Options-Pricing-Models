@@ -1,5 +1,5 @@
 import numpy as np
-from scripy.stats import norm
+from scipy.stats import norm
 
 class BSM:
     
